@@ -12,7 +12,7 @@ How to use it:
 <li>import the script: &lt;script src="rclick-directive.js"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="rclick.css"&gt; &lt;/script&gt;</li>
 <li>add the attribute directive wherever you want &lt;ANY
-  ng-rclick="function()"&gt ... &lt;/ANY&gt; 
+  ng-rclick="function()"&gt; ... &lt;/ANY&gt; 
 </li>
 </ul>
 
