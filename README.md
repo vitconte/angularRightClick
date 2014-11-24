@@ -10,7 +10,6 @@ The ngRclick directive allows you to specify custom behavior on a right click ev
 How to use it: 
 <ul>
 <li>import the script: &lt;script src="rclick-directive.js"&gt; &lt;/script&gt;</li>
-<li>import the script: &lt;script src="rclick.css"&gt; &lt;/script&gt;</li>
 <li>declare the dependency from the module 'angularRightClick'</li>
 <li>add the attribute directive anywhere &lt;ANY ng-rclick="function()"&gt; ... &lt;/ANY&gt;</li>
 </ul>
