@@ -12,6 +12,7 @@ app.directive('ngRclick', function($parse) {
                     scope.$apply(function() {
                         // Stop the event propagations
                         event.preventDefault();
+                        // Exec the specified function
                         fn(scope, {$event:event});
                     });
                 });
