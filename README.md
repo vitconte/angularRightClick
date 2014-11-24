@@ -11,15 +11,17 @@ How to use it:
 <ul>
 <li>import the script: &lt;script src="rclick-directive.js"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="rclick.css"&gt; &lt;/script&gt;</li>
-<li>add the attribute directive wherever you want &lt;ANY
-  ng-rclick="function()"&gt; ... &lt;/ANY&gt; 
-</li>
+<li>add the attribute directive anywhere &lt;ANY ng-rclick="function()"&gt; ... &lt;/ANY&gt;</li>
 </ul>
 
 <h2>Example</h2>
 
 Try it on jsFiddle: http://jsfiddle.net/vitconte/gujzqe90/
 
-Find us on:<br/>
+Find me on:<br/>
+LinkedIn https://www.linkedin.com/pub/vittorio-conte/ <br/>
+Twitter https://twitter.com/vitconte
+
+Find the community on:<br/>
 LinkedIn http://www.linkedin.com/groups/AngularJS-Italia-7442742 <br/>
 Twitter https://twitter.com/AngularJSItalia
